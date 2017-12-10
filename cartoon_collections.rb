@@ -22,8 +22,8 @@ def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   if array.map.include?(cheese_types)
     return array
-# puts item
-  # array.map.include?(cheese_types)
+else
+  nil
 
 end
 end
