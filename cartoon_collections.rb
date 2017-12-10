@@ -25,5 +25,5 @@ def find_the_cheese(array)
 # puts item
   # array.map.include?(cheese_types)
 
-
+end
 end
